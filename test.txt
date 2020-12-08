@@ -1,0 +1,47 @@
+IMAGINE Session Log
+-------------------
+
+User: admin
+Date: Sat Jun 20 11:50:38 2020
+Host: DESKTOP-8TGRDLM
+OS Version: Windows NT 6.2 Build 9200 
+IMAGINE Version: "ERDAS IMAGINE 9.2"
+
+Startup Directory: c:\users\admin
+Session ID: 17636
+
+Starting session log...
+
+20/06/20 11:50:39 eml statusfinished;
+20/06/20 11:50:39 eml message imaginestartup;
+20/06/20 11:50:39 SessionMgr(17636): Executing application message [eml message imaginestartup ]
+20/06/20 11:50:41 viewer create at 0 125 size 600 600;
+20/06/20 11:50:41 D:/erdas9.2/bin/ntx86/viewer.exe create at 0 125 size 600 600
+20/06/20 11:50:42 eml statusstart;
+20/06/20 11:50:42 eml statusmessage Parsing viewer.eml;
+20/06/20 11:50:42 eml statusmessage Initializing Annotation Module;
+20/06/20 11:50:42 eml statusmessage Initializing Aoi Module;
+20/06/20 11:50:42 eml statusmessage Initializing Vector Module;
+20/06/20 11:50:42 eml statusmessage Initializing Inquire Module;
+20/06/20 11:50:42 eml statusmessage Initializing GLT Subset Module;
+20/06/20 11:50:42 eml statusmessage Initializing Functional Module;
+20/06/20 11:50:42 eml statusmessage Initializing Visual Chooser Module;
+20/06/20 11:50:42 eml statusmessage Starting...;
+20/06/20 11:50:42 eml statusfinished;
+20/06/20 11:50:42 viewer(13548): ERDAS Viewer Ready
+20/06/20 11:50:42 
+20/06/20 11:51:00 viewer clear;
+20/06/20 11:51:01 viewer(13548): Loading GrayScale Layer:  
+20/06/20 11:51:01     f:/shuijingzhu/astgtm_n30e113.img/astgtm_n30e113t.img(:Band_1)
+20/06/20 11:51:01 
+20/06/20 11:51:01 viewer greyscale "f:/shuijingzhu/astgtm_n30e113.img/astgtm_n30e113t.img" band 1 transbackground 0;
+20/06/20 11:51:01 viewer magnification toplayer 1 resample "Nearest Neighbor";
+20/06/20 11:51:05 viewer autofit;
+20/06/20 11:51:18 viewer(13548): Opened layer f:/shuijingzhu/astgtm_n30e113.img/astgtm_n30e113t.img(:Band_1)
+20/06/20 11:51:18 viewer(13548): Adding Value column
+20/06/20 11:51:18 viewer(13548): Starting new editor
+20/06/20 11:51:23 viewer(13548): Exiting editor
+20/06/20 11:51:24 viewer(13548): Removing GrayScale Layer:  
+20/06/20 11:51:24     f:/shuijingzhu/astgtm_n30e113.img/astgtm_n30e113t.img(:Band_1)
+20/06/20 11:51:24 
+20/06/20 11:51:24 viewer destroy;
